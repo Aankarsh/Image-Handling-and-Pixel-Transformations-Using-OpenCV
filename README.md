@@ -226,35 +226,38 @@ plt.show()
 ## Output:
 - **i)** Read and Display an Image.
   1.Read 'Eagle_in_Flight.jpg' as grayscale and display:
-  
-  <img width="764" height="586" alt="image" src="https://github.com/user-attachments/assets/373385a0-fbe2-44f5-b14f-80f5d6921278" />
+ 
+![flying_eagle](https://github.com/user-attachments/assets/0e8d7f58-6252-4320-8246-f85ae222cbd9)
+
 
  2.Save image as PNG and display:
- 
- <img width="742" height="594" alt="image" src="https://github.com/user-attachments/assets/a7ba9fd1-3670-440a-8f76-5953f96eee45" />
+ <img width="515" height="319" alt="colour image" src="https://github.com/user-attachments/assets/c9244fc7-169c-4927-bf7a-7f9b9e052ffc" />
+
+
 
  3.Cropped image:
- 
- <img width="699" height="586" alt="image" src="https://github.com/user-attachments/assets/6eba3a08-3a62-4cfb-a1ef-ebaacfa31fbd" />
+  <img width="472" height="409" alt="cropped" src="https://github.com/user-attachments/assets/6faac90e-5572-4b7c-b8ec-a16347bc068e" />
 
 4.Resize and flip Horizontally:
 
- <img width="436" height="465" alt="image" src="https://github.com/user-attachments/assets/bb9344ba-0ecc-4920-a5a7-5d913c498180" />
+ <img width="472" height="409" alt="image" src="https://github.com/user-attachments/assets/a0007b17-0ce5-43d7-8c11-6e14ae852d52" />
 
-5.Read 'Apollo-11-launch.jpg' and Display the final annotated image:
 
-<img width="769" height="447" alt="image" src="https://github.com/user-attachments/assets/44878c50-a9a1-4a22-833d-00494b6f521c" />
+5.Read 'chandrayan.jpg' and Display the final annotated image:
+
+<img width="515" height="365" alt="chandrayan" src="https://github.com/user-attachments/assets/2fb77d0c-d06e-46f1-92be-20085056725e" />
+
 
 - **ii)** Adjust Image Brightness.
   
  1 .Create brighter and darker images and display:
  
-  <img width="1325" height="345" alt="image" src="https://github.com/user-attachments/assets/7deee422-8182-4b67-9066-5d37c7e379c1" />
+<img width="950" height="222" alt="org_drk" src="https://github.com/user-attachments/assets/f3545362-763d-467c-bd4a-e609d72abc7c" />
 
 - **iii)** Modify Image Contrast.
   Modify contrast using scaling factors 1.1 and 1.2:
   
-<img width="1330" height="344" alt="image" src="https://github.com/user-attachments/assets/a9a7d7c7-4640-4f53-b481-feee957b375c" />
+<img width="950" height="222" alt="contrast img" src="https://github.com/user-attachments/assets/0dbf6e9b-b399-4c6e-8558-53023a9ff8e8" />
 
 - **iv)** Generate Third Image Using Bitwise Operations.
 1.Split 'Boy.jpg' into B, G, R components and display:

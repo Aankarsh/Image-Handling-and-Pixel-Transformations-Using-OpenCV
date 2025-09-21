@@ -276,8 +276,7 @@ plt.show()
 
 4.Merge the H, S, V channels and display:
 
-<img width="515" height="371" alt="merged HSV" src="https://github.com/user-attachments/assets/c1513e38-8002-4149-81ff-26f49d340c11" />
-
+<img width="515" height="371" alt="merged HSV" src="https://github.com/user-attachments/assets/e1c1b4b2-b53e-4196-a5b9-20b1987a21ee" />
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.

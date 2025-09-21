@@ -226,8 +226,8 @@ plt.show()
 ## Output:
 - **i)** Read and Display an Image.
   1.Read 'Eagle_in_Flight.jpg' as grayscale and display:
- 
-![flying_eagle](https://github.com/user-attachments/assets/0e8d7f58-6252-4320-8246-f85ae222cbd9)
+<img width="515" height="319" alt="grayscale image shape" src="https://github.com/user-attachments/assets/11e561e6-f2d2-421c-9d1b-f8e0012c3d65" />
+
 
 
  2.Save image as PNG and display:
@@ -262,19 +262,22 @@ plt.show()
 - **iv)** Generate Third Image Using Bitwise Operations.
 1.Split 'Boy.jpg' into B, G, R components and display:
   
-<img width="1337" height="340" alt="image" src="https://github.com/user-attachments/assets/310c7da5-f377-4ca2-be88-5a438c2317f7" />
+<img width="950" height="222" alt="RGB image" src="https://github.com/user-attachments/assets/2138b4d3-4e9c-45e4-a34c-6d9dd19bc39f" />
+
   
 2.Merge the R, G, B channels and display:
 
-<img width="742" height="585" alt="image" src="https://github.com/user-attachments/assets/d8aecfd9-4065-4dc1-94c2-d3ee4edf69b4" />
+<img width="515" height="371" alt="merged RGB" src="https://github.com/user-attachments/assets/afe18f0a-55d3-42c1-bd30-dade17c3e8ec" />
+
 
 3.Split the image into H, S, V components and display:
 
-<img width="1352" height="348" alt="image" src="https://github.com/user-attachments/assets/173eac26-1243-4083-8916-d48406a8007b" />
+<img width="950" height="222" alt="HSV image" src="https://github.com/user-attachments/assets/24f2d135-9ba0-47f9-b279-852941120593" />
 
 4.Merge the H, S, V channels and display:
 
-<img width="715" height="590" alt="image" src="https://github.com/user-attachments/assets/e3490875-761f-48b2-a72c-772b1bdcebef" />
+<img width="515" height="371" alt="merged HSV" src="https://github.com/user-attachments/assets/c1513e38-8002-4149-81ff-26f49d340c11" />
+
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
